@@ -1,0 +1,39 @@
+Metrics:
+
+* Applied filters to analytic pipelines with specific dimensions or properties.
+
+* Able to group outputs by specific dimensions or properties.
+
+* Filter by mulitple dimension values at once.
+
+* Simple user interface for building analytics without having to learn a new query language.
+
+* Visualization of analytics through UI in real time as data flows in.
+
+* We can export chart as CSV
+
+Alerts:
+
+* Deliver the real-time analytics alerts within seconds.
+
+Integration:
+
+* Many pre-configured integrations.
+
+* SignalFx open-source agent with a broad ecosystem of integrations. (signalfx-smart-agent in our case)
+
+* Open-source client libraries for instrumenting custom metrics. (we used node.js)
+
+* RESTful API for metric ingest.
+
+Dashboard:
+
+* Real-time view by updating at 1-second resolution.
+
+* Shortening troubleshooting cycles.
+
+* Creates Interactive Visualizations.
+
+* We can customize visualizations to highlight exactly what matters most.
+
+
